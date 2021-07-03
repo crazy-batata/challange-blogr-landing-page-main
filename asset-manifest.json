@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/challange-blogr-landing-page-main/static/css/main.d556e83a.chunk.css",
+    "main.js": "/challange-blogr-landing-page-main/static/js/main.aacfd2a3.chunk.js",
+    "main.js.map": "/challange-blogr-landing-page-main/static/js/main.aacfd2a3.chunk.js.map",
+    "runtime-main.js": "/challange-blogr-landing-page-main/static/js/runtime-main.1c910893.js",
+    "runtime-main.js.map": "/challange-blogr-landing-page-main/static/js/runtime-main.1c910893.js.map",
+    "static/js/2.e04b0d9e.chunk.js": "/challange-blogr-landing-page-main/static/js/2.e04b0d9e.chunk.js",
+    "static/js/2.e04b0d9e.chunk.js.map": "/challange-blogr-landing-page-main/static/js/2.e04b0d9e.chunk.js.map",
+    "index.html": "/challange-blogr-landing-page-main/index.html",
+    "static/css/main.d556e83a.chunk.css.map": "/challange-blogr-landing-page-main/static/css/main.d556e83a.chunk.css.map",
+    "static/js/2.e04b0d9e.chunk.js.LICENSE.txt": "/challange-blogr-landing-page-main/static/js/2.e04b0d9e.chunk.js.LICENSE.txt",
+    "static/media/Phones.module.css": "/challange-blogr-landing-page-main/static/media/bg-pattern-circles.bae804b8.svg",
+    "static/media/Header.module.css": "/challange-blogr-landing-page-main/static/media/bg-pattern-intro.bf6b3e1b.svg",
+    "static/media/icon-arrow-dark.5215f8d9.svg": "/challange-blogr-landing-page-main/static/media/icon-arrow-dark.5215f8d9.svg",
+    "static/media/icon-arrow-light.9ba0f38e.svg": "/challange-blogr-landing-page-main/static/media/icon-arrow-light.9ba0f38e.svg",
+    "static/media/icon-close.c6580312.svg": "/challange-blogr-landing-page-main/static/media/icon-close.c6580312.svg",
+    "static/media/icon-hamburger.68867946.svg": "/challange-blogr-landing-page-main/static/media/icon-hamburger.68867946.svg",
+    "static/media/illustration-editor-desktop.c6c8050a.svg": "/challange-blogr-landing-page-main/static/media/illustration-editor-desktop.c6c8050a.svg",
+    "static/media/illustration-editor-mobile.b9c7941a.svg": "/challange-blogr-landing-page-main/static/media/illustration-editor-mobile.b9c7941a.svg",
+    "static/media/illustration-laptop-desktop.799209c2.svg": "/challange-blogr-landing-page-main/static/media/illustration-laptop-desktop.799209c2.svg",
+    "static/media/illustration-laptop-mobile.fe1ec0f0.svg": "/challange-blogr-landing-page-main/static/media/illustration-laptop-mobile.fe1ec0f0.svg",
+    "static/media/illustration-phones.fd23559f.svg": "/challange-blogr-landing-page-main/static/media/illustration-phones.fd23559f.svg",
+    "static/media/logo.1591bc20.svg": "/challange-blogr-landing-page-main/static/media/logo.1591bc20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c910893.js",
+    "static/js/2.e04b0d9e.chunk.js",
+    "static/css/main.d556e83a.chunk.css",
+    "static/js/main.aacfd2a3.chunk.js"
+  ]
+}
