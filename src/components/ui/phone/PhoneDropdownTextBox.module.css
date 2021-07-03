@@ -1,0 +1,30 @@
+.phoneDropdownTextBox_container{
+    text-align: center;
+}
+.header_container{
+    margin: 8vw 0vw 4vw 0vw;
+    font-size: 5.2vw;
+    font-weight: 600;
+    color: hsl(208, 49%, 24%);
+}
+.header_container .title{
+    display: inline-block;
+    margin: 0vw 3vw 0vw 3vw;
+}
+.text_container{
+    background-color: #0000000f;
+    font-size: 4.5vw;
+    font-weight: 600;
+    color: hsl(208deg 49% 24% / 75%);
+    padding: 5vw 0vw 4vw 0vw;
+    border-radius: 2vw;
+}
+.text_container div{
+    margin: 0vw 0vw 5vw 0vw;
+}
+.rotate_arrow{
+    transform: rotate(180Deg);
+}
+.display_none{
+    display: none;
+}

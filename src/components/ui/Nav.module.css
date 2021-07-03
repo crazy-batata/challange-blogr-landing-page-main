@@ -1,0 +1,53 @@
+.Nav_container{
+    position: relative;
+    margin-bottom: 9vw;
+}
+.logo{
+    margin: 0vw 5vw -0.7vw 0vw;
+    width: 5.75vw;
+}
+.pc_dropdown_container,
+.btn_container{
+    display: inline-block;
+}
+.btn_container{
+    float: right;
+}
+.btn_container button{
+    width: 7vw;
+    height: 2vw;
+    padding: 0.5vw;
+    margin-left:0.7vw ;
+    border: transparent;
+    border-radius: 200vw;
+    font-size: 0.9vw;
+    font-weight: 600;
+    cursor: pointer;
+}
+.btn_container .btn1:hover{
+    background-color: white;
+    color: hsl(355, 100%, 74%);;
+}
+.btn_container .btn2{
+    background-color: white;
+    color: hsl(356, 100%, 66%);   
+}
+.btn_container .btn2:hover{
+    background-color: hsl(355, 100%, 74%);
+    color: white;
+}
+
+@media screen and (max-width:375px){
+    .Nav_container{
+        margin-bottom: 30vw;
+        
+    }
+    .pc_dropdown_container,
+    .btn_container{
+        display: none;
+    }
+    .logo{
+        margin: 0;
+        width: 20vw;
+    }
+}
